@@ -2,3 +2,5 @@
 Makefile
 tritiumanalysis.Rproj
 .lintr
+^.*\.Rproj$
+^\.Rproj\.user$
